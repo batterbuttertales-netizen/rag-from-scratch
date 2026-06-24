@@ -1,9 +1,9 @@
-# RAG From Scratch: Staff Level
+# RAG From Scratch
 
 Production-grade RAG system built on Uber 2024 10-K Annual Report.
 
 ## What I Built
-End-to-end RAG pipeline from zero — no LangChain, no shortcuts.
+End-to-end RAG pipeline from zero.
 
 ## Stack
 | Component | Tool |
