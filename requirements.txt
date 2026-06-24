@@ -1,0 +1,8 @@
+pymupdf4llm
+chromadb
+sentence-transformers
+groq
+rank-bm25
+streamlit
+pyngrok
+numpy
